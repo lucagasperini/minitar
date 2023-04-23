@@ -1,0 +1,5 @@
+.vscode/
+build/
+data-test/
+extract-test/
+result2.tar
